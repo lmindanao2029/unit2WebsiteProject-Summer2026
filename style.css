@@ -1,0 +1,16 @@
+body {
+  background: rgb(194, 253, 254);
+  font-family: cursive;
+  color: rgb(10, 165, 167);
+  text-align: center
+}
+p {
+  color: rgb(10, 165, 167);
+}
+h1 {
+  font-weight: bold;
+}
+
+a {
+  color: rgb(5, 126, 128);
+}

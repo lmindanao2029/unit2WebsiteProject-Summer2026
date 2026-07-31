@@ -1,0 +1,32 @@
+body {
+  background: rgb(194, 253, 254);
+  font-family: fantasy;
+  color: rgb(9, 165, 167);
+  text-align: center
+}
+p {
+  color: rgb(10, 165, 167);
+}
+h1 {
+  font-weight: bold;
+}
+
+h2 {
+  color: rgb(24, 119, 120);
+  font-family: cursive
+  
+}
+
+a {
+  color: rgb(0, 183, 250);
+}
+
+img {
+  width: 400px;
+  height: 280px;
+}
+
+.animal-title {
+  color: rgb(24, 119, 120);
+  text-align: center;
+}
